@@ -8,7 +8,7 @@ The **Book Search App** is a React-based application that allows users to search
 
 ## **Demo**
 
-- **Live Demo**: [Project Link](https://book-store-sarvesh-yogis-projects.vercel.app/) _(if hosted online)_
+- **Live Demo**: [Project Link](https://book-store-sarvesh-yogis-projects.vercel.app/) 
 
 ---
 
